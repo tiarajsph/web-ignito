@@ -1,12 +1,52 @@
- HEAD
-# web-ignito
+Ignito
 
-# React + Vite
+Ignito is a frontend-only web project designed as a mock college event website. It simulates how an official college fest or event portal might look, including landing sections, event information, and visual branding.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was built primarily to practice frontend development and UI structuring.
 
-Currently, two official plugins are available:
+📌 About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
- e480569 (Initial commit)
+Ignito is a static event website created to represent a fictional college event.
+It focuses on layout, responsiveness, and visual presentation rather than backend functionality.
+
+There is no backend or authentication — all content is frontend-rendered.
+
+🛠️ Tech Stack
+
+React
+
+Vite
+
+JavaScript
+
+HTML & CSS
+
+✨ Features
+
+Event-style landing page layout
+
+Multiple sections for event details and highlights
+
+Responsive design for different screen sizes
+
+Fast development setup using Vite
+
+🚀 Running Locally
+git clone <repo-url>
+cd ignito
+npm install
+npm run dev
+
+
+Then open the local server URL shown in the terminal.
+
+🎯 Purpose
+
+This project was created as:
+
+a frontend practice project
+
+a UI/UX experiment for event-style websites
+
+a learning exercise using React + Vite
+
